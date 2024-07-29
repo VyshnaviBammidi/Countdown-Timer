@@ -1,2 +1,2 @@
 # countdown-timer
-this is a web development project
+THIS IS MY WEB DEVELOPMENT PROJECT-COUNTDOWN TIMER.
